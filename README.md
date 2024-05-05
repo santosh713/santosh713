@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C, C++**
 - 📫 How to reach me **santoshcgn713@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/santosh713**
+- 👨‍💻 All of my projects are available at **@santosh713**
 - ⚡ Fun fact **Happy coder !**
 
 <div> <a href="https://twitter.com/@santoshcgn713" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
